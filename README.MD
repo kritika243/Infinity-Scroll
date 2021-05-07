@@ -1,1 +1,1 @@
-# Scroll Infinitely through Images, Stop and Download
+# Scroll Infinitely through Images
